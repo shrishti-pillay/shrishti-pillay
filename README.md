@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Shrishti Pillay
 
 💻 Software Engineer (5+ years) | 🔍 Exploring Data Science & ML  | 🌏 Based in Singapore 
-**Software Engineer** with over 5 years of experience in backend development, cloud infrastructure, and building features that make a real-world impact—especially in healthcare and purpose-driven domains.
+
+**Software Engineer** with over 5 years of experience in backend development, cloud infrastructure, and building features that make a real-world impact, especially in healthcare and purpose-driven domains.
 
 ---
 
