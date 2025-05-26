@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Shrishti Pillay
 
-🌏 Based in Singapore | 💻 Software Engineer (5+ years) | 🔍 Exploring Data Science & ML  
-💬 I build scalable frontend and backend systems, integrate AI tools, and bring ideas to life with code.
-
----
-
-## 💼 Professional Snapshot
-
+💻 Software Engineer (5+ years) | 🔍 Exploring Data Science & ML  | 🌏 Based in Singapore 
 **Software Engineer** with over 5 years of experience in backend development, cloud infrastructure, and building tools that make a real-world impact—especially in healthcare and purpose-driven domains.
 
 ---
@@ -24,7 +18,8 @@
 
 - **AI + Image Search** – Using Supabase and embeddings to build semantic search systems  
 - **Healthcare** – Solving problems in the healthcare industry  
-- **Data Analysis & SQL**  
+- **Data Analysis & SQL** - Python pandas library and SQL. 
+- **Full-Stack Applications** - Implementing full-stack applications using Django and REACTjs.
 - **Clean Architecture** – Writing maintainable, modular backend systems in Python
 
 ---
@@ -38,8 +33,6 @@
 | **Cloud**      | AWS (Bedrock, Lambda, EC2, S3, Cloudwatch, SQS, Cloudfront), Supabase
 | **Tools**      | Git, Ansible, Pydantic, Pandas         |
 | **DBs**        | Supabase Storage, MongoDB           |
-
----
 
 ---
 
