@@ -29,11 +29,11 @@
 
 | Category       | Tools & Platforms                     |
 |----------------|----------------------------------------|
-| **Languages**  | Python, JavaScript, SQL, HTML, Java |
+| **Languages**  | Python, JavaScript, HTML, CSS, Java |
 | **Frameworks** | Django, Node.js, React.js                  |
 | **Cloud**      | AWS (Bedrock, Lambda, EC2, S3, Cloudwatch, SQS, Cloudfront), Supabase
-| **Tools**      | Git, Ansible, Pydantic, Pandas         |
-| **DBs**        | Supabase Storage, MongoDB           |
+| **Tools**      | Git, Ansible, Pydantic, Pandas, Selenium         |
+| **DBs**        | SQL, MongoDB           |
 
 ---
 
