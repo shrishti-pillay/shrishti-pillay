@@ -17,7 +17,7 @@
 
 ## 🧠 Key Projects & Interests
 
-- **AI + Image Search** – Using Supabase and embeddings to build semantic search systems  
+- **AI + Image Search** – Using Amazon Titan multimodal and Supabase vector database to build semantic image search module.   
 - **Healthcare** – Solving problems in the healthcare industry  
 - **Data Analysis & SQL** - Python pandas library and SQL. 
 - **Full-Stack Applications** - Implementing full-stack applications using Django and REACTjs.
